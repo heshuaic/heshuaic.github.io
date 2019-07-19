@@ -1,11 +1,11 @@
 # Site settings
-title: 来来来
-SEOTitle: 何帅的博客
+title: 忧伤
+SEOTitle: 何帅的个人博客
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: "关于程序与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
-url: "https://huangxuan.me"              # your host, for absolute URL
+email: heshuaic@qq.com
+description: "关于程序与设计、黑客与画家 | 何帅，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @hehsuai何帅 的个人博客，与你一起发现更大的世界。"
+keyword: "何帅, heshuai何帅, Heshuai, 鬼栈, heshuai, @heshuai, 何帅的博客, heshuaic, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
+url: "https://heshuaic.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-twitter_username:   huxpro
+weibo_username:     15515672517
+zhihu_username:     15515672517
+github_username:    heshuaic@qq.com
+#twitter_username:   heshuaic
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -106,34 +106,13 @@ friends: [
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
-        title: "乱序",
-        href: "http://mida.re/"
+        title: "百度",
+        href: "https://www.baidu.com"
     },{
-        title: "前端外刊评论",
-        href: "http://qianduan.guru/"
+        title: "谷歌",
+        href: "http://www.google.cn"
     },{
-        title: "天镶的博客",
-        href: "http://lingyu.wang/"
-    },{
-        title: "Luke 的自留地",
-        href: "http://hmqk1995.github.io"
-    },{
-        title: "Ebn's Blog",
-        href: "http://ebnbin.com/"
-    },{
-        title: "SmdCn's Blog",
-        href: "http://blog.smdcn.net"
-    },{
-        title: "David's Game",
-        href: "https://www.ruoyaowu.com/"
-    },{
-        title: "DHong Say",
-        href: "http://dhong.co"
-    },{
-        title: "尹峰以为",
-        href: "http://ingf.github.io/"
-    },{
-        title: "解旻的博客",
-        href: "http://xieminis.me/"
+        title: "360搜索",
+        href: "https://www.so.com"
     }
 ]
